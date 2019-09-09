@@ -1,4 +1,4 @@
 {
-    "video_ad_type": 150,
+    "video_ad_type": 200,
     "full_screen_ad_type": 5
 }
